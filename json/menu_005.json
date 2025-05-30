@@ -1,0 +1,196 @@
+{
+  "id": "menu_005",
+  "breakfast": [
+    {
+      "menuName": "Huevo con Frijol",
+      "dishes": [
+        {
+          "name": "Huevo con Frijol",
+          "ingredients": [
+            {
+              "name": "Claras de huevo",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Frijoles",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Aceite",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "cucharadita"
+            },
+            {
+              "name": "Chayote",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack1": [
+    {
+      "menuName": "Mandarinas y Almendras",
+      "dishes": [
+        {
+          "name": "Mandarinas y Almendras",
+          "ingredients": [
+            {
+              "name": "Mandarinas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Almendras",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 10,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "menuName": "Carne de Cerdo con Calabacitas",
+      "dishes": [
+        {
+          "name": "Carne de Cerdo con Calabacitas",
+          "ingredients": [
+            {
+              "name": "Carne de cerdo",
+              "metricQuantity": 90,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Calabacita",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Aceite",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "cucharadita"
+            },
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "2",
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack2": [
+    {
+      "menuName": "Toronja y Nueces",
+      "dishes": [
+        {
+          "name": "Toronja y Nueces",
+          "ingredients": [
+            {
+              "name": "Toronja",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Nueces",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 6,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dinner": [
+    {
+      "menuName": "Sándwich de Jamón",
+      "dishes": [
+        {
+          "name": "Sándwich de Jamón",
+          "ingredients": [
+            {
+              "name": "Pan de caja",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "rebanadas"
+            },
+            {
+              "name": "Jamón",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "rebanadas"
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "rebanada"
+            },
+            {
+              "name": "Cebolla",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Lechuga",
+              "metricQuantity": "10",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Jitomate",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

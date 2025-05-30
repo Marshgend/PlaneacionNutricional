@@ -1,0 +1,196 @@
+{
+  "id": "menu_001",
+  "breakfast": [
+    {
+      "menuName": "Nopales con Frijoles y Queso Panela",
+      "dishes": [
+        {
+          "name": "Nopales con Frijoles",
+          "ingredients": [
+            {
+              "name": "Nopales",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Frijoles",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Queso Panela",
+              "metricQuantity": 40,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Aceite",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "cucharadita"
+            },
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack1": [
+    {
+      "menuName": "Pera y Almendras",
+      "dishes": [
+        {
+          "name": "Pera y Almendras",
+          "ingredients": [
+            {
+              "name": "Pera",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Almendras",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 10,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "menuName": "Pollo Asado con Ensalada",
+      "dishes": [
+        {
+          "name": "Pollo Asado",
+          "ingredients": [
+            {
+              "name": "Pollo",
+              "metricQuantity": 120,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Cebolla",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "tazas"
+            },
+            {
+              "name": "Lechuga",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Jitomate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack2": [
+    {
+      "menuName": "Guayabas con Cacahuates",
+      "dishes": [
+        {
+          "name": "Guayabas con Cacahuates",
+          "ingredients": [
+            {
+              "name": "Guayabas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 3,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Cacahuates",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 14,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dinner": [
+    {
+      "menuName": "Tacos de Panela",
+      "dishes": [
+        {
+          "name": "Tacos de Panela",
+          "ingredients": [
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Queso Panela",
+              "metricQuantity": 40,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Jicama",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

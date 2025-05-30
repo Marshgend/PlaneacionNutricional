@@ -1,0 +1,217 @@
+{
+  "id": "menu_004",
+  "breakfast": [
+    {
+      "menuName": "Tostadas de Frijoles con Queso",
+      "dishes": [
+        {
+          "name": "Tostadas de Frijoles con Queso",
+          "ingredients": [
+            {
+              "name": "Tostadas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 4,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Frijoles",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Queso Panela",
+              "metricQuantity": 40,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Chile",
+              "metricQuantity": "10",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Jitomate",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Cebolla",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack1": [
+    {
+      "menuName": "Guayabas y Cacahuates",
+      "dishes": [
+        {
+          "name": "Guayabas y Cacahuates",
+          "ingredients": [
+            {
+              "name": "Guayabas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 3,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Cacahuates",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 14,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "menuName": "Bistec Asado con Nopales y Ensalada",
+      "dishes": [
+        {
+          "name": "Bistec Asado",
+          "ingredients": [
+            {
+              "name": "Bistec",
+              "metricQuantity": 90,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Nopales",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Cebolla",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Lechuga",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Jitomate",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack2": [
+    {
+      "menuName": "Papaya y Almendras",
+      "dishes": [
+        {
+          "name": "Papaya y Almendras",
+          "ingredients": [
+            {
+              "name": "Papaya",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Almendras",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 10,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dinner": [
+    {
+      "menuName": "Tacos de Huevo con Espinacas",
+      "dishes": [
+        {
+          "name": "Tacos de Huevo con Espinacas",
+          "ingredients": [
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Claras de huevo",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Espinacas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

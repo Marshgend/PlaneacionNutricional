@@ -1,0 +1,210 @@
+{
+  "id": "menu_003",
+  "breakfast": [
+    {
+      "menuName": "Sándwich de Panela",
+      "dishes": [
+        {
+          "name": "Sándwich de Panela",
+          "ingredients": [
+            {
+              "name": "Pan de caja",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "rebanadas"
+            },
+            {
+              "name": "Queso Panela",
+              "metricQuantity": 40,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Pepino",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Habas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack1": [
+    {
+      "menuName": "Naranjas y Nueces",
+      "dishes": [
+        {
+          "name": "Naranjas y Nueces",
+          "ingredients": [
+            {
+              "name": "Naranjas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Nueces",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 6,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "menuName": "Pescado al Vapor con Verduras",
+      "dishes": [
+        {
+          "name": "Pescado al Vapor",
+          "ingredients": [
+            {
+              "name": "Pescado",
+              "metricQuantity": 120,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Chayote",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Brócoli",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Calabaza",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack2": [
+    {
+      "menuName": "Manzana y Semillas de Girasol",
+      "dishes": [
+        {
+          "name": "Manzana y Semillas de Girasol",
+          "ingredients": [
+            {
+              "name": "Manzana",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Semillas de girasol",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 4,
+              "alternativeUnit": "cucharaditas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dinner": [
+    {
+      "menuName": "Tacos de Bistec",
+      "dishes": [
+        {
+          "name": "Tacos de Bistec",
+          "ingredients": [
+            {
+              "name": "Tortillas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Bistec",
+              "metricQuantity": "30",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Aceite",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "cucharadita"
+            },
+            {
+              "name": "Cebolla",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Cilantro",
+              "metricQuantity": "5",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Salsa",
+              "metricQuantity": "10",
+              "metricUnit": "mililitros",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

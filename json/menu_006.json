@@ -1,0 +1,157 @@
+{
+  "id": "menu_006",
+  "breakfast": [
+    {
+      "menuName": "Quesadillas de Panela",
+      "dishes": [
+        {
+          "name": "Quesadillas de Panela",
+          "ingredients": [
+            {
+              "name": "Tortillas de maíz",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Queso Panela",
+              "metricQuantity": 40,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/3",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Calabaza",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Lentejas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "taza"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack1": [
+    {
+      "menuName": "Manzana y Nueces",
+      "dishes": [
+        {
+          "name": "Manzana y Nueces",
+          "ingredients": [
+            {
+              "name": "Manzana",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 1,
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Nueces",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 6,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "menuName": "Tostadas de Pollo con Verdura",
+      "dishes": [
+        {
+          "name": "Tostadas de Pollo con Verdura",
+          "ingredients": [
+            {
+              "name": "Tostadas",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 4,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Pollo",
+              "metricQuantity": 120,
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Aguacate",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "1/2",
+              "alternativeUnit": "pieza"
+            },
+            {
+              "name": "Salsa",
+              "metricQuantity": "10",
+              "metricUnit": "mililitros",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Pepino",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            },
+            {
+              "name": "Zanahoria",
+              "metricQuantity": "20",
+              "metricUnit": "gramos",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack2": [
+    {
+      "menuName": "Duraznos y Almendras",
+      "dishes": [
+        {
+          "name": "Duraznos y Almendras",
+          "ingredients": [
+            {
+              "name": "Duraznos",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 2,
+              "alternativeUnit": "piezas"
+            },
+            {
+              "name": "Almendras",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": 10,
+              "alternativeUnit": "piezas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dinner": []
+}
