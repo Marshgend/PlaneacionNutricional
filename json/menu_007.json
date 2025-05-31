@@ -1,0 +1,98 @@
+{
+  "id": "menu_007",
+  "breakfast": [
+    {
+      "menuName": "---------",
+      "dishes": [
+        {
+          "name": "---------",
+          "ingredients": [
+            {
+              "name": "---------",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack1": [
+    {
+      "menuName": "---------",
+      "dishes": [
+        {
+          "name": "---------",
+          "ingredients": [
+            {
+              "name": "---------",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "menuName": "---------",
+      "dishes": [
+        {
+          "name": "---------",
+          "ingredients": [
+            {
+              "name": "---------",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "snack2": [
+    {
+      "menuName": "---------",
+      "dishes": [
+        {
+          "name": "---------",
+          "ingredients": [
+            {
+              "name": "---------",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dinner": [
+    {
+      "menuName": "---------",
+      "dishes": [
+        {
+          "name": "---------",
+          "ingredients": [
+            {
+              "name": "---------",
+              "metricQuantity": "",
+              "metricUnit": "",
+              "alternativeQuantity": "",
+              "alternativeUnit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
